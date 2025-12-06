@@ -1,4 +1,4 @@
-# Hi, I'm Gulshan Kumar! ![Hello GIF](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif width="50")
+# Hi, I'm Gulshan Kumar! ![Hello GIF](https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif)
 
 ![Profile Banner](https://yt3.googleusercontent.com/6Y_YzvE21ReWghOmKyrxk6nnVbQTE_DL31a0iVSCnZni49h8uwAoalu_ONh0zzmVYbBMVxgr4Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
