@@ -11,12 +11,12 @@
 ```python
 gulshan = {
     "pronouns": "he" | "him",
-    "skills": ["Python", "Pandas", "NumPy", "Matplotlib"],
+    "skills": ["Python", "Pandas", "NumPy", "Matplotlib","power BI"],
     "focus": ["Data Analysis", "Machine Learning", "Data Visualization"],
     "projects": ["Student Performance Analysis", "Sales Prediction"],
     "community": {
         "contributor": "Data Science Community",
         "mentor": "Tech Education"
     },
-    "challenge": "Currently doing the #100DaysOfCode with a focus on Python"
+    
 }
