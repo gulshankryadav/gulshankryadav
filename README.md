@@ -1,16 +1,23 @@
-## Hi there 👋
+# Gulshan K R Yadav
 
-<!--
-**gulshankryadav/gulshankryadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Data Science enthusiast with experience in data analysis, machine learning, and feedback analysis.
 
-Here are some ideas to get you started:
+## Education
+- [Your Degree] in [Your Major] from [Your University]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Data Analysis
+- Machine Learning
+- Python, Pandas, Scikit-learn
+- Data Visualization (Matplotlib, Seaborn)
+
+## Projects
+- **Feedback Analysis**: Analyzed student feedback using NLP techniques to derive insights.
+- **Sales Prediction**: Built a machine learning model to forecast sales data.
+
+## Contact
+- Email: your.email@domain.com
+- LinkedIn: [Your LinkedIn Profile]
+
+Feel free to reach out for collaborations or opportunities!
