@@ -1,12 +1,9 @@
 # Gulshan Kumar
 
-![Profile Banner](https://your-banner-image-url.com)
+![Profile Banner](https://scholarlogic.net/wp-content/uploads/2023/10/da.png)
 
 ## 👨‍💻 About Me
 I am a passionate Data Scientist with expertise in data analysis, machine learning, and feedback analysis. I love transforming data into actionable insights.
-
-## 🎓 Education
-- **[Your Degree]** in **[Your Major]** from **[Your University]**
 
 ## 🛠 Skills
 - **Programming Languages:** Python, R, SQL
@@ -16,11 +13,6 @@ I am a passionate Data Scientist with expertise in data analysis, machine learni
 ## 💡 Projects
 - **Feedback Analysis**: Utilized NLP techniques to analyze student feedback and derive meaningful insights.
 - **Sales Prediction**: Developed a machine learning model to forecast sales data accurately.
-
-## 🌐 Connect with Me
-- **Email:** your.email@domain.com
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
 
 ## 📊 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulshankryadav&show_icons=true&theme=dark)
