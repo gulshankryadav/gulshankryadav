@@ -14,9 +14,6 @@ I am a passionate Data Scientist with expertise in data analysis, machine learni
 - **Feedback Analysis**: Utilized NLP techniques to analyze student feedback and derive meaningful insights.
 - **Sales Prediction**: Developed a machine learning model to forecast sales data accurately.
 
-## 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulshankryadav&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gulshankryadav&layout=compact&theme=dark)
 
 ---
 
