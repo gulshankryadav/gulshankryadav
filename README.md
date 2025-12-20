@@ -3,7 +3,7 @@
 # Hi, I'm Gulshan Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofil)](https://www.linkedin.com/in/gulshan-kumar-b703bb322/)
-[![GitHub](https://img.shields.io/github/followers/gulshankryadav?label=follow&style=social)](https://github.com/gulshankryadav)
+[![GitHub](https://img.shields.io/github/followers/gullucode?label=follow&style=social)](https://github.com/gullucode)
 
 ### A little more about me
 
